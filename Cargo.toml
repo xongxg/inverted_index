@@ -1,0 +1,8 @@
+[package]
+name = "inverted_index"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+regex = "1.11.1"
+colored = "2.1.0"
